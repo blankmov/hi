@@ -13,3 +13,16 @@ p {
 .bold {
   font-weight: 900;
 }
+
+a:link {
+  color : black;
+}
+a:visited {
+  color : black;
+}
+a:hover {
+  color : #987dd4;
+}
+a:active {
+  color : black;
+}
